@@ -1,3 +1,6 @@
+
+' Small update to demonstrate Pull Request workflow
+
 Imports System
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 Imports OpenQA.Selenium
